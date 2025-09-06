@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
     contactForm.addEventListener('submit', (e) => {
         e.preventDefault();
         // ここにフォーム送信の処理を実装
-        alert('お問い合わせありがとうございます。\n内容を確認次第、担当者よりご連絡させていただきます。');
+        alert('この前一緒にいた人は誰？仕事って言ってたよね？');
         contactForm.reset();
     });
 });
